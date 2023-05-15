@@ -57,10 +57,13 @@ Once the client is terminated, the client socket is closed.
   
 Note: Make sure to have the server running and reachable at the specified IP address and port number before running the client code.
 ### Requirments
-
 Python 3.x
+  
 socket module
+  
 select module
+  
 sys module
+  
 Must be run on ubuntu to function.
 
